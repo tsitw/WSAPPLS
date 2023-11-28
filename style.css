@@ -1,0 +1,55 @@
+
+body{
+    background-color: purple;
+}
+
+img{
+    padding: 100px;
+}
+
+#infoBoxes{
+    padding: 100px;
+    display: inline;
+    background-color: antiquewhite;
+}
+
+#infoBox1{
+    background-color: aqua;
+}
+
+#infoBox2{
+    background-color: beige;
+}
+
+#infoBox3{
+    background-color: yellow;
+}
+
+#infoBoxImages1{
+    width: 259px;
+    height: 194px;
+}
+
+#infoBoxImages2{
+    width: 249px;
+    height: 190.5px;
+}
+
+#infoBoxImages3{
+    width: 265.5px;
+    height: 177px;
+}
+
+#extra{
+    background-color: black;
+}
+
+.linkExtra{
+    color: white;
+    text-decoration: none;
+}
+
+.linkExtra:hover{
+    color: aqua;
+    text-decoration: underline;
+}
